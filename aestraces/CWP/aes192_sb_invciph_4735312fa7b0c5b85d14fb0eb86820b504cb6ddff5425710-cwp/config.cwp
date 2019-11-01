@@ -1,0 +1,3 @@
+[Trace Management]
+tracefile0=traces/config.cfg
+enabled0=True
